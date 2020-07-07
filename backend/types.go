@@ -1,4 +1,4 @@
-// Copyright (c) 2017 Gorillalabs. All rights reserved.
+// Copyright (c) 2017 pavelblossom. All rights reserved.
 
 package backend
 

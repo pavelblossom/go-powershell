@@ -1,4 +1,4 @@
-// Copyright (c) 2017 Gorillalabs. All rights reserved.
+// Copyright (c) 2017 pavelblossom. All rights reserved.
 
 package middleware
 
@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/Spalf/go-powershell/utils"
+	"github.com/pavelblossom/go-powershell/utils"
 )
 
 // utf8 implements a primitive middleware that encodes all outputs
